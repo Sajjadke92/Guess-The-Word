@@ -1,3 +1,4 @@
+Guess The Word Game
 The idea behind the project was to create a simple and engaging word-guessing game. The game randomly selects a word from various predefined file with different categories and challenges the player to guess the word one letter at a time or by guessing the whole word. The player has a limited number of wrong guesses before they lose the game. The game is designed to be fun and educational.
 Here I explain the game steps:
 1.	Player Name Input: The game starts by asking the player to enter their name. 
