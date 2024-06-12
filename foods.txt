@@ -1,0 +1,17 @@
+Pizza
+Sushi
+Burger
+Salad
+Pasta
+Tacos
+Curry
+Sandwich
+Soup
+Steak
+falafel
+omelette
+Lasagna
+Hot Dogs
+Shawarma
+FriedChicken
+Kimchi
